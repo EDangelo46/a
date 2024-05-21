@@ -15,7 +15,7 @@ CREATE TABLE utenti (
   primary key(nome_utente)
 );
 
-INSERT INTO utenti values ("pippo","admin","admin",50,"giuseppe","bianchi","1975-03-15");
+INSERT INTO utenti values ("palla","admin","admin",50,"giuseppe","bianchi","1975-03-15");
 INSERT INTO utenti values ("micky","admin","manag",50,"lorenzo","bianchi","1975-03-15");
 INSERT INTO utenti values ("carmine","admin","user",50,"carmine","longhi","1975-03-15");
 INSERT INTO utenti values ("emmy","admin","user",50,"cane","rossi","1975-03-15");
